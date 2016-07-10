@@ -1,5 +1,3 @@
-Surge
----------|
 App|Conf URL|Date|Ps
 ---------|:---------:|:---------:|:---------:
 Surge|[Custom.conf](https://raw.githubusercontent.com/ifyour/Hosts-for-Surge/master/hosts.conf) |2016-7-10|自定义
