@@ -1,6 +1,9 @@
-Type|FileName|UpdateTime|Ps|QrCode
-:---------:|:---------:|:---------:|:---------:|:---------:
-Surge|[Custom.conf](https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/Custom.conf) |2016-7-10|自定义|[Open](http://qr.liantu.com/api.php?&w=500&text=https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/Custom.conf)
-Surge|[Global.conf](https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/Global.conf) |2016-7-10|全局|[Open](http://qr.liantu.com/api.php?&w=500&text=https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/Global.conf)
-Shadowrockte||||
-Potatso||||
+###Surge
+FileName|UpdateTime|Ps|QrCode
+:---------:|:---------:|:---------:|:---------:
+[Global.conf](https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/Global.conf) |2016-7-10|全局|[Open](http://qr.liantu.com/api.php?&w=500&text=https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/Global.conf)
+[SurgeBrup.conf](https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/SurgeBrup.conf) |2016-7-11|自定义|[Open](http://qr.liantu.com/api.php?&w=500&text=https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/SurgeBrup.conf)
+###Potatso Rule
+FileName|UpdateTime|Ps|QrCode
+:---------:|:---------:|:---------:|:---------:
+[PotatsoBrup.conf](https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/PotatsoBrup) |2016-7-10|Null|[Open](http://qr.liantu.com/api.php?&w=500&text=https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/PotatsoBrup)
