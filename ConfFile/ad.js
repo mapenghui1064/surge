@@ -21,7 +21,6 @@ function FindProxyForURL(url, host){
 //<ad.js_test>
 "sc.cdce.cf",
 //<youku>
-"m.baidu.com",
 "ad.api.3g.youku.com",
 "statis.api.3g.youku.com",
 "atm.youku.com",
@@ -125,6 +124,8 @@ function FindProxyForURL(url, host){
 "101.227.14.83",
 "101.227.14.84",
 "101.227.14.85",
+"101.227.200.11",
+"101.227.200.28",
 "101.227.14.86"
 //=========IP地址End=========
 //【在分界线上面可以追加IP地址，两边加上双引号，使用逗号分隔。】
