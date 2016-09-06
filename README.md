@@ -8,7 +8,3 @@ SSEncrypt|2016-7-15|[SSEncrypt.module](https://github.com/Brywmzl/Conf/raw/maste
 Remarks|UpdateTime|FileName|QrCode
 :---------:|:---------:|:---------:|:---------:
 Null|2016-7-10|[PotatsoBrup.conf](https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/PotatsoBrup) |[Open](http://qr.liantu.com/api.php?&w=500&text=https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/PotatsoBrup)
-###URL
-Remarks|UpdateTime|FileName|QrCode
-:---------:|:---------:|:---------:|:---------:
-URL|2016-8-30|[ad.js](https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/ad.js) |[Open](http://qr.liantu.com/api.php?&w=500&text=https://raw.githubusercontent.com/Brywmzl/Conf/master/ConfFile/ad.js)
