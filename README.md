@@ -7,4 +7,4 @@ FileName|UpdateTime|QrCode
 ##Shadowrocket Rule
 FileName|UpdateTime|QrCode
 :---------:|:---------:|:---------:
-[zCloud.conf](https://github.com/Brywmzl/Conf/raw/master/File/Shadowrocket/zCloud_Global.conf) |2016-12-23|[Show](http://qr.liantu.com/api.php?&w=500&text=https://github.com/Brywmzl/Conf/raw/master/File/Shadowrocket/zCloud_Global.conf)
+[zCloud_Global.conf](https://github.com/Brywmzl/Conf/raw/master/File/Shadowrocket/zCloud_Global.conf) |2016-12-23|[Show](http://qr.liantu.com/api.php?&w=500&text=https://github.com/Brywmzl/Conf/raw/master/File/Shadowrocket/zCloud_Global.conf)
